@@ -1,3 +1,4 @@
 a = 10
 b = "hello world!!"
-print(a, b)
+c = 28
+print(a, b, c)
